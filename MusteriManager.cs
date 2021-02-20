@@ -48,6 +48,8 @@ namespace ClassMetotDemo
                     Console.WriteLine("Müşteri üyelik tipi : " + musteriler.musteriUyelikTipi);
                 }
             }
+
+
             Console.WriteLine("Müşteriler başarıyla listelendi!");
 
         }
