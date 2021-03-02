@@ -1,3 +1,3 @@
-## Yazılım Geliştirici Yetiştirme Kampı Ödev
+# Kodlama.io
 
-Yazılım Geliştirici Yetiştirme Kampı 3. Hafta ödevi
+Yazılım Geliştirici Yetiştirme Kampı (C#) 3. Gün Ödevi
